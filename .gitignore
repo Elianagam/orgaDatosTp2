@@ -1,6 +1,9 @@
 .ipynb_checkpoints/
 data/
+modelos/
 
 temp.pdf
 installs_randomForest.ipynb
 installs_features.ipynb
+modelos/lightgbm
+modelos/lightgbm.txt
