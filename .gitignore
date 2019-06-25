@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 data/
-modelos/
+logs/
 
 temp.pdf
 installs_randomForest.ipynb
